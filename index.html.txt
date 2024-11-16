@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> web site </title>
+<link REL="stylesheet" type="text/CSS" HREF="style.css">
+</head>
+<body>
+<h1> Hello </h1>
+</body>
+</html>
